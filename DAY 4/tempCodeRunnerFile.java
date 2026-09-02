@@ -1,1 +1,1 @@
-arr
+count[arr[i]]++;
