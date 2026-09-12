@@ -63,6 +63,6 @@ public class getithbit {
         return ans;
     }
     public static void main(String[] args) {
-        System.out.println(fastExp(3,5));
+        System.out.println(isPowerOfTwo(3));
     }
 }
