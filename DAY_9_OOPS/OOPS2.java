@@ -20,7 +20,7 @@ class Student{
     int age;
     String password;
 
-    Student(Student s1){
+    Student(Student s1){   // this is copy constructor
         this.Name=s1.Name;
         this.age=s1.age;
     }
