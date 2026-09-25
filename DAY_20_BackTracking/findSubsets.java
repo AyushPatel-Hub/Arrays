@@ -16,7 +16,7 @@ public class findSubsets {
         //No choice
         findSubsetsSS(str, ans, i+1);
     }
-    public static void main(String[] args) {
+      public static void main(String[] args) {
         String str="abc";
         String ans="";
         findSubsetsSS(str, ans, 0);
